@@ -4,13 +4,19 @@
 
 Estou em transição para o mercado profissional, com foco em construir sistemas robustos, escaláveis e eficientes. Atualmente, mergulho no ecossistema Spring e em práticas de arquitetura de software.
 
-- Buscando minha primeira oportunidade como **Estagiário ou Desenvolvedor Júnior**.
-- Focado em: **Java 17+, Spring Boot 3, Docker e Bancos de Dados Relacionais**.
-- Valorizo: Código limpo, princípios Fail-Fast e tratamento de exceções bem estruturado.
+<br>
+
+- 🚀 Buscando minha primeira oportunidade como **Estagiário ou Desenvolvedor Júnior**.
+- 🛠️ Focado em: **Java 17+, Spring Boot 3, Docker e Bancos de Dados Relacionais**.
+- 💎 Valorizo: Código limpo, princípios Fail-Fast e tratamento de exceções bem estruturado.
+
+<br>
 
 ---
 
 ### Tecnologias e Ferramentas
+
+<br>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java" style="margin-right: 20px;" />
@@ -27,6 +33,8 @@ Estou em transição para o mercado profissional, com foco em construir sistemas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3" />
 </p>
 
+<br>
+
 ---
 
 ### Estatísticas
@@ -34,14 +42,16 @@ Estou em transição para o mercado profissional, com foco em construir sistemas
 <p align="center">
   <img 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=ThomazCollet&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-lime-mu-17.vercel.app/api?username=ThomazCollet&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     style="margin-right: 10px;"
   />
   <img 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomazCollet&theme=tokyonight&layout=compact&langs_count=9" 
+    src="https://github-readme-stats-lime-mu-17.vercel.app/api/top-langs/?username=ThomazCollet&theme=tokyonight&layout=compact&langs_count=9" 
   />
 </p>
+
+<br>
 
 ---
 
