@@ -39,17 +39,24 @@ Estou em transição para o mercado profissional, com foco em construir sistemas
 
 ### Estatísticas
 
-<p align="center">
-  <img 
-    height="200" 
-    src="https://github-readme-stats-lime-mu-17.vercel.app/api?username=ThomazCollet&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    style="margin-right: 10px;"
-  />
-  <img 
-    height="200" 
-    src="https://github-readme-stats-lime-mu-17.vercel.app/api/top-langs/?username=ThomazCollet&theme=tokyonight&layout=compact&langs_count=9" 
-  />
-</p>
+<br>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td valign="center">
+        <img  
+          src="https://github-readme-stats-lime-mu-17.vercel.app/api?username=ThomazCollet&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=false&card_width=495" 
+        />
+      </td>
+      <td valign="center">
+        <img 
+          src="https://github-readme-stats-lime-mu-17.vercel.app/api/top-langs/?username=ThomazCollet&theme=tokyonight&layout=compact&langs_count=9&hide_border=false&height=165" 
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
